@@ -22,17 +22,6 @@
 <hr>
 ---
 
-## Project #2 - Step Slider
-
-This is my first project created using React.js. The page acts as a page showing the menu of a pizza restaurant.
-
-<strong>Creation Process</strong> </br>
-<strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
-<strong>Component creation:</strong> Each section of the page was implemented as a separate React component.</br>
-<strong>Data:</strong> Data is passed in from an external API simulation file, data is passed in via props.</br>
-<strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
-<strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
-
 ## Project #2 - Simple Step Slider
 
 This is my second project created using React.js. The page acts as a page representing a small slider.
