@@ -22,7 +22,7 @@
 <hr>
 ---
 
-## Project #1 - Pizza Menu
+## Project #2 - Step Slider
 
 This is my first project created using React.js. The page acts as a page showing the menu of a pizza restaurant.
 
