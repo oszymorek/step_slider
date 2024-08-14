@@ -2,13 +2,13 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">PIZZA-MENU</h1>
+    <h1 align="center">Step Slider</h1>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/oszymorek/pizza-menu?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/oszymorek/pizza-menu?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/oszymorek/pizza-menu?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/oszymorek/pizza-menu?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/oszymorek/step_slider.git?style=flat&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/oszymorek/step_slider.git?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/oszymorek/step_slider.git?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/oszymorek/step_slider.git?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
 		<em>Developed with the software and tools below.</em>
@@ -20,7 +20,6 @@
 	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
 </p>
 <hr>
-
 ---
 
 ## Project #1 - Pizza Menu
@@ -34,9 +33,20 @@ This is my first project created using React.js. The page acts as a page showing
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
-https://project01-oszymorek.netlify.app/
+## Project #2 - Simple Step Slider
 
----
+This is my second project created using React.js. The page acts as a page representing a small slider.
+
+<strong>Creation Process</strong> </br>
+<strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
+<strong>Component creation:</strong> Each section of the page was implemented as a separate React component.</br>
+<strong>Data:</strong> Data is passed in via props.</br>
+<strong>Props:</strong> Using {children} to cross-post in the compnent, further components in JSX form.</br>
+<strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
+<strong>Hooks:</strong> Using the useState hook to update the page state.</br>
+<strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
+
+https://project02-oszymorek.netlify.app/
 
 ## Repository Structure
 
