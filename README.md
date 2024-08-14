@@ -30,9 +30,9 @@ This is my second project created using React.js. The page acts as a page repres
 <strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
 <strong>Component creation:</strong> Each section of the page was implemented as a separate React component.</br>
 <strong>Data:</strong> Data is passed in via props.</br>
-<strong>Props:</strong> Using {children} to cross-post in the compnent, further components in JSX form.</br>
+<strong>Props:</strong> Using `{children}` to cross-post in the compnent, further components in JSX form.</br>
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
-<strong>Hooks:</strong> Using the useState hook to update the page state.</br>
+<strong>Hooks:</strong> Using the `useState` hook to update the page state.</br>
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
 https://project02-oszymorek.netlify.app/
